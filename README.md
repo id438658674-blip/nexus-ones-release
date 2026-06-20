@@ -9,7 +9,7 @@ Nexus Lab 第一款作品
 ## 🚀 下载中心
 
 最新版本下载将在此发布。
-
+点击下载地址：https://github.com/id438658674-blip/nexus-ones-release/releases/tag/v0.1.9
 ---
 
 ## 📝 更新日志
