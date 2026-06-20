@@ -1,5 +1,4 @@
 {
-
   "appName": "Nexus Ones",
 
   "latestVersion": "0.1.9",
@@ -10,6 +9,8 @@
 
   "releaseDate": "2026-06-20",
 
+  "publishedAt": "2026-06-20T21:00:00+08:00",
+
   "releaseUrl": "https://github.com/id438658674-blip/nexus-ones-release/releases/latest",
 
   "downloadUrl": "https://github.com/id438658674-blip/nexus-ones-release/releases/latest",
@@ -19,13 +20,9 @@
   "summary": "Nexus Ones v0.1.9 初始发布版本。",
 
   "changelog": [
-
     "完成 Nexus Ones 基础桌面中枢界面",
-
-    "新增项目库、日历、课程中心、备忘录、提醒等基础模块",
-
-    "完成 Update Center 前置发布仓库搭建"
-
+    "新增项目库、日历、课程中心、时间四象限、提醒等基础模块",
+    "完成 GitHub Release 发布中心搭建",
+    "完成 Update Center 前置架构"
   ]
-
 }
