@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0",
+  "appName": "Nexus Ones",
+  "updatedAt": "2026-06-21T00:00:00+08:00",
+  "licenses": [
+    {
+      "licenseHash": "sha256_b9d39ac7c33b289c1c84037b725c434566374ec9c97f5f9eb4854e8269266a0c",
+      "type": "beta",
+      "status": "active",
+      "expireAt": "2026-12-31",
+      "note": "beta tester 001"
+    }
+  ]
+}
