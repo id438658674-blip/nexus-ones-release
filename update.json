@@ -1,28 +1,45 @@
 {
+
+  "schemaVersion": "1.0",
+
   "appName": "Nexus Ones",
 
-  "latestVersion": "0.1.9",
+  "latestVersion": "v0.2.4-beta.1",
 
-  "minimumVersion": "0.1.9",
+  "latestBuild": "0.2.4-beta.1",
 
-  "releaseTitle": "Nexus Ones v0.1.9",
+  "releaseName": "Nexus Ones v0.2.4 Beta 1",
 
-  "releaseDate": "2026-06-20",
+  "channel": "public_beta",
 
-  "publishedAt": "2026-06-20T21:00:00+08:00",
+  "publishedAt": "2026-06-23T00:03:05+08:00",
 
-  "releaseUrl": "https://github.com/NexusMemory/nexus-ones-release/releases/latest",
-
-  "downloadUrl": "https://github.com/NexusMemory/nexus-ones-release/releases/latest",
-
-  "updateRequired": false,
-
-  "summary": "Nexus Ones v0.1.9 初始发布版本。",
+  "summary": "Nexus Ones v0.2.4 Beta 1 测试版更新",
 
   "changelog": [
-    "完成 Nexus Ones 基础桌面中枢界面",
-    "新增项目库、日历、课程中心、时间四象限、提醒等基础模块",
-    "完成 GitHub Release 发布中心搭建",
-    "完成 Update Center 前置架构"
-  ]
+
+    "实装 Plugin Runtime 与首页插件槽接入",
+
+    "新增 hello.nexus 示例插件验证",
+
+    "增强 Status Light 红黄绿灯亮度、呼吸与脉冲效果",
+
+    "修复 Windows 下 Status Light 单击设置菜单问题",
+
+    "统一 P1/P2/P3/P4 优先级体系",
+
+    "优化旧数据目录提示，可关闭或不再提示",
+
+    "保持 dataRoot、Production、Sandbox、插件与备份目录安全兼容"
+
+  ],
+
+  "downloadUrl": "GitHub Release",
+
+  "releaseUrl": "GitHub Release",
+
+  "minimumSupportedVersion": "0.2.3-beta.1",
+
+  "forceUpdate": false
+
 }
