@@ -1,13 +1,20 @@
 {
   "schemaVersion": "1.1",
   "appName": "Nexus Ones",
-  "updatedAt": "2026-06-22T13:04:30+08:00",
+  "updatedAt": "2026-06-22T16:34:43+08:00",
   "accessMode": {
-    "mode": "free_access",
+    "mode": "license_required",
     "enabled": true,
-    "note": "temporary public test"
+    "note": "require activation code"
   },
   "licenses": [
+    {
+      "licenseHash": "sha256_9b1025bf2a803773497e4130977192f2bf6fc6746b584918952c8ba7f171ca89",
+      "type": "beta",
+      "status": "active",
+      "expireAt": "2026-12-31",
+      "note": ""
+    },
     {
       "licenseHash": "sha256_276bd3f9eb60283d220521224a3a36e28262c4079bec2c8b7825e39e3c3353e6",
       "type": "beta",
