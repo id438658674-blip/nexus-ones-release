@@ -1,11 +1,11 @@
 {
   "schemaVersion": "1.1",
   "appName": "Nexus Ones",
-  "updatedAt": "2026-06-22T12:43:19+08:00",
+  "updatedAt": "2026-06-22T13:04:30+08:00",
   "accessMode": {
-    "mode": "license_required",
+    "mode": "free_access",
     "enabled": true,
-    "note": "require activation code"
+    "note": "temporary public test"
   },
   "licenses": [
     {
