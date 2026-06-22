@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.1",
   "appName": "Nexus Ones",
-  "updatedAt": "2026-06-22T16:43:48+08:00",
+  "updatedAt": "2026-06-22T21:52:59+08:00",
   "accessMode": {
     "mode": "license_required",
     "enabled": true,
@@ -9,45 +9,24 @@
   },
   "licenses": [
     {
-      "licenseHash": "sha256_7150491017ae6419b2eb95c5a60743f1f241d17f21907f03e7f723d84720ad96",
-      "type": "beta",
-      "status": "active",
-      "expireAt": "2099-12-31",
-      "note": "测试用"
-    },
-    {
-      "licenseHash": "sha256_6b5199cab852f2ab914c4acc3e12ced31cc235146fef94e4680b9685cfa858a5",
-      "type": "beta",
-      "status": "active",
-      "expireAt": "2099-12-31",
-      "note": "测试用"
-    },
-    {
-      "licenseHash": "sha256_ae3a13367146e58bba78373dbcbdf91aa7e4c46f56edab80a1ad8c60f77ebb5a",
-      "type": "beta",
-      "status": "active",
-      "expireAt": "2099-12-31",
-      "note": "测试用"
-    },
-    {
-      "licenseHash": "sha256_9b1025bf2a803773497e4130977192f2bf6fc6746b584918952c8ba7f171ca89",
+      "licenseHash": "sha256_9298eb8c5c06a90759cc22372f3d20fed9cc8563afd85e40a6750ae2a98feea6",
       "type": "beta",
       "status": "active",
       "expireAt": "2026-12-31",
       "note": ""
     },
     {
-      "licenseHash": "sha256_276bd3f9eb60283d220521224a3a36e28262c4079bec2c8b7825e39e3c3353e6",
+      "licenseHash": "sha256_9a6e14c3a5625eb55b57a8a91dfbbb3e2b9b0351ff89e2f0b9e02303e419f36e",
       "type": "beta",
       "status": "active",
       "expireAt": "2026-12-31",
       "note": ""
     },
     {
-      "licenseHash": "sha256_389e22a2ee41aa1abea2def2c842605c0d9081e64e14e19f53237449621fa099",
+      "licenseHash": "sha256_fee9706e375f1202ae067a8c823219c9ebd9f95abcdeee8e015b54112395d745",
       "type": "beta",
       "status": "active",
-      "expireAt": "2026-12-31",
+      "expireAt": "2090-12-31",
       "note": ""
     }
   ]
